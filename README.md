@@ -1,4 +1,4 @@
-# Bitmatrix-
+# Bitmatrix-CPP
 A templated  bit -matrix class extending from the STL- bit set class.
 
 
